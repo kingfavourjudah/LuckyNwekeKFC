@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kingfavourjudah@gmail.com**
 
-- 📄 Know about my experiences [googledocs.com](googledocs.com)
-
 - ⚡ Fun fact **I love learning a lot!**
 
 ### Blogs posts
