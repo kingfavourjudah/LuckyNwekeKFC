@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://kingfavourjudah.com](https://kingfavourjudah.com)
 
-- 📝 I regularly write articles on [medium](medium)
-
 - 💬 Ask me about **solidity, rust, move, go and javascript.**
 
 - 📫 How to reach me **kingfavourjudah@gmail.com**
